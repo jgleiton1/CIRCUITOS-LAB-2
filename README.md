@@ -3,10 +3,14 @@
 **1. Objetivos** 
 
    **1.1. Objetivo General** 
+   
+   ***
 
 Comprobar el cumplimiento de la técnica de análisis de mallas, mediante el análisis de los circuitos eléctricos, las simulaciones y las prácticas de laboratorio físicas, para afianzar los conocimientos adquiridos en clase.
 
    **1.2. Objetivos Específicos:**
+   
+   ***
    
 -Resumir que es el análisis de mallas, la ley de Kirchhoff de Voltajes y la ley de la conservación de la carga, a partir de una búsqueda bibliográfica.
    
@@ -29,6 +33,8 @@ Comprobar el cumplimiento de la técnica de análisis de mallas, mediante el an�
 ![WhatsApp Image 2022-05-26 at 8 49 34 AM](https://user-images.githubusercontent.com/94011974/170503760-17543032-d15c-4857-a46a-0d33c1618c86.jpeg)
 
 ![WhatsApp Image 2022-05-26 at 8 49 58 AM](https://user-images.githubusercontent.com/94011974/170503858-4367fca0-1537-4539-8709-8693729a1ce2.jpeg)
+
+***
 
 **3. Requerimientos previos**
 
@@ -62,6 +68,8 @@ Circuito para el análisis de mallas
 
 ***
 
+***
+
 **5. Procedimiento**
 
 **MALLA 1:** 
@@ -70,11 +78,15 @@ Circuito para el análisis de mallas
 
 5 V – I1 * 820 Ω - (I1 – I2) * 1000 Ω = 0  (1ra Ecuación)
 
+***
+
 **MALLA 2:**
 
 - V3 – V4 – V2 = 0
 
 I2 * 1200 Ω + (I2 – I3) * 2200 Ω + (I2 – I1) * 1000 Ω = 0  (2da Ecuación)
+
+***
 
 **MALLA 3:**
 
@@ -95,9 +107,13 @@ I3 =  0.48 mA
 
 ![image](https://user-images.githubusercontent.com/94011974/170400361-ac0da96e-71e1-4e44-945c-783e441d2e3f.png)
 
+***
+
 **6. Cálculo de error**
 
 ![image](https://user-images.githubusercontent.com/94011974/170057592-12d7c136-22cd-4cac-9532-0e92eb81f1b9.png)
+
+***
 
 **7.  Video**
 
@@ -118,6 +134,8 @@ https://www.youtube.com/watch?v=4IcsGD-T6jc
 **9. Bibliografía**
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+***
 
 **10. Rubrica**
 
