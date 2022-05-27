@@ -101,6 +101,13 @@ https://www.youtube.com/watch?v=4IcsGD-T6jc
 
 8. Conclusiones
 
+-En base a las bibliografías investigadas, se concluye que, para el análisis de mallas, asigna y dibuja corrientes independientes en cada malla, es necesaria la segunda ley de Kirchhoff, la cual nos dice que la suma algebraica de los voltajes es una malla cerrada debe ser cero y se debe tener cuidado con la dirección de la corriente. Con respecto a la ley de la conservación de la carga los componentes ganan y pierden energía dependiendo del elemento.
+
+-Usando el simulador de Tinkercad y armando un circuito electrónico físico, se midió las corrientes de cada malla. Mientras que para obtener el valor calculado se utilizan aplicaciones algebraicas, en este caso la técnica del análisis de mallas, que asigna corrientes independientes a cada malla al terminar su resolución.
+
+-En el video realizado se explica la construcción del circuito físico y los componentes que se utilizaron, junto con la simulación de Tinkercad.  Se ubican las resistencias, los cables y las fuentes de voltaje que son los cargadores, para la fuente de voltaje de 10 V se unieron dos cargadores de 5 voltios. Se procede a medir las corrientes comprobando la ley de Kirchhoff y el análisis de mallas. 
+
+
 9. Bibliografía
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
