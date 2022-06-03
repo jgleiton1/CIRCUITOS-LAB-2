@@ -62,33 +62,33 @@ Malla 3
 
 MALLA 1: 
 
-5V – V1 - V2 = 0 
+5V – V820 - V1000 = 0 
 
-5 V – I1 * 820 Ω - (I1 – I2) * 1000 Ω = 0  (1ra Ecuación)
+5 – 820.I1 - 1000.(I1 – I2) = 0  (1ra Ecuación)
 
 MALLA 2:
 
-- V3 – V4 – V2 = 0
+- V1200 – V2200 – V1000 = 0
 
-I2 * 1200 Ω + (I2 – I3) * 2200 Ω + (I2 – I1) * 1000 Ω = 0  (2da Ecuación)
+-1200.I2 - 2200.(I2-I3) - 1000.(I2-I1) = 0  (2da Ecuación)
 
 MALLA 3:
 
--V5 – 10 V – V4 =0
+-V390 -10 V - V2200 =0
 
-I3 * 390 Ω + 5V + (I3 – I2) * 2200 kΩ = 0  (3ra Ecuación)
+-390I3 - 10 - 2200.(I3-I2) = 0  (3ra Ecuación)
 
-Resolviendo los sistemas de ecuaciones con las ecuaciones (1) , (2) y (3). ![image](https://user-images.githubusercontent.com/105259459/170615378-9cedb057-0f51-40b2-b5d5-46979c51f4ff.png)
+Resolviendo los sistemas de ecuaciones con las ecuaciones (1) , (2) y (3).
 
 Se obtuvieron los siguientes resultados:
 
-![image](https://user-images.githubusercontent.com/94011974/170371320-9b68e805-42eb-4ee0-b173-8aa353966f3b.png)
+![image](https://user-images.githubusercontent.com/94011974/171866873-641e62b8-8e0c-4255-8019-09d995faea97.png)
  
-I1 =  3 mA
+I1 =   1.1 mA
 
-I2 =  2.3 mA
+I2 =  -6.3 mA
 
-I3 =  0.48 mA
+I3 =  -2.9 mA
 
 ![image](https://user-images.githubusercontent.com/94011974/170400361-ac0da96e-71e1-4e44-945c-783e441d2e3f.png)
 
