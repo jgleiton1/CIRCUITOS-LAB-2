@@ -50,28 +50,14 @@ Circuito armado
 
 Circuito para el análisis de mallas
 
-![image](https://user-images.githubusercontent.com/94011974/170368099-dd353d06-50a3-46cf-a3a4-ba8d6ab130b0.png)
+![image](https://user-images.githubusercontent.com/94011974/171923593-40278f6c-b813-4649-8ec7-63ff1fa5141c.png)
 
 ***
 
-**Malla 1**
+Medicion de corrientes en mallas 1,2 y 3
 
-![image](https://user-images.githubusercontent.com/94011974/170368117-ae78efe6-f110-4c5d-be37-99ad8561f6d7.png)
+![image](https://user-images.githubusercontent.com/94011974/171923656-20a93ee4-35a8-43ed-b1c8-c969d551e6fa.png)
 
-
-***
-
-**Malla 2**
-
-![image](https://user-images.githubusercontent.com/94011974/170368148-bccfe9fd-6984-48f1-92f9-db1b6184a1cf.png)
-
-***
-
-**Malla 3**
-
-![image](https://user-images.githubusercontent.com/94011974/170368161-37ccb8d9-b2af-4b7f-8202-a12b9393f76f.png)
-
-***
 
 **4. Materiales y equipos requeridos**
 
@@ -111,7 +97,7 @@ I2 =  -2.9 mA
 
 I3 =  -6.3 mA
 
-![image](https://user-images.githubusercontent.com/94011974/171906162-2edbcbf7-2a37-4b90-bf1e-dcc0f9183179.png)
+![image](https://user-images.githubusercontent.com/94011974/171923701-ee809471-288d-4a8c-abe1-37425117140f.png)
 
 ***
 
