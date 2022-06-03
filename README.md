@@ -32,7 +32,7 @@ Comprobar el cumplimiento de la técnica de análisis de mallas, mediante el an�
 
 Análisis de mallas
 
-![WhatsApp Image 2022-05-26 at 9 15 26 AM](https://user-images.githubusercontent.com/94011974/170505990-6f22adfb-5e7f-4884-859d-56a7d36f58f4.jpeg)
+![WhatsApp Image 2022-06-03 at 8 30 29 AM](https://user-images.githubusercontent.com/94011974/171864079-b005c0d4-4cd1-4d72-810e-c81d9d9dfd1d.jpeg)
 
 Circuito armado
 
