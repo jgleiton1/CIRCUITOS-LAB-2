@@ -124,34 +124,20 @@ I3 =  -6.3 mA
 **Malla  1**
 
 
+![image](https://user-images.githubusercontent.com/105259459/171908770-5a72cfb6-5db1-4eb3-8956-0d933768d1aa.png)
 
-Con resultado experimental
 
-![image](https://user-images.githubusercontent.com/105259459/170615313-aaef31c8-8beb-4ed9-87d0-34607a91b1e1.png)
-
-Con resultado  simulado
 
 **Malla 2**
 
-Con resultado experimental
-
-![image](https://user-images.githubusercontent.com/105259459/170615566-7c4f041f-54a8-4e62-bd53-076ae10cec3c.png)
+![image](https://user-images.githubusercontent.com/105259459/171908962-8d666f95-9775-4f81-b506-4e2d783cbb44.png)
 
 
-
-Con resultado simulado
-
-![image](https://user-images.githubusercontent.com/105259459/170615674-5962009a-44ec-44af-88f9-d54925969bd8.png)
 
 **Malla 3**
 
- Con resultado experimental 
- 
-![image](https://user-images.githubusercontent.com/105259459/170615784-d3d658fa-5507-4b35-bd35-2ddd3dcd1937.png)
+ ![image](https://user-images.githubusercontent.com/105259459/171909151-c9b8e823-1aae-49d4-978d-b500a909ed93.png)
 
-Con resultado simulado
-
-![image](https://user-images.githubusercontent.com/105259459/170615997-eed48f70-8e12-49ac-b2e2-c549518321c9.png)
 
 ***
 
