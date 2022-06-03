@@ -107,11 +107,11 @@ Se obtuvieron los siguientes resultados:
  
 I1 =   1.1 mA
 
-I2 =  -6.3 mA
+I2 =  -2.9 mA
 
-I3 =  -2.9 mA
+I3 =  -6.3 mA
 
-![image](https://user-images.githubusercontent.com/94011974/171870035-a2504501-3ab0-4b44-a0e4-a5120c55d1a4.png)
+![image](https://user-images.githubusercontent.com/94011974/171906162-2edbcbf7-2a37-4b90-bf1e-dcc0f9183179.png)
 
 ***
 
