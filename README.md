@@ -2,7 +2,10 @@
 
 1. Objetivos 
 
+
+***
    1.1. Objetivo General 
+***
 
 Comprobar el cumplimiento de la técnica de análisis de mallas, mediante el análisis de los circuitos eléctricos, las simulaciones y las prácticas de laboratorio físicas, para afianzar los conocimientos adquiridos en clase.
 
