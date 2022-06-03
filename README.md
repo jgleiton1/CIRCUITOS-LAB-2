@@ -1,15 +1,15 @@
 # CIRCUITOS-LAB-2
 
-1. Objetivos 
+**1. Objetivos**
 
 
 ***
-   1.1. Objetivo General 
-***
+   **1.1. Objetivo General** 
+
 
 Comprobar el cumplimiento de la técnica de análisis de mallas, mediante el análisis de los circuitos eléctricos, las simulaciones y las prácticas de laboratorio físicas, para afianzar los conocimientos adquiridos en clase.
 
-   1.2. Objetivos Específicos:
+  **1.2. Objetivos Específicos:**
    
 -Resumir que es el análisis de mallas, la ley de Kirchhoff de Voltajes y la ley de la conservación de la carga, a partir de una búsqueda bibliográfica.
    
@@ -19,7 +19,7 @@ Comprobar el cumplimiento de la técnica de análisis de mallas, mediante el an�
 
 ***
 
-2. Marco Teórico
+**2. Marco Teórico**
 
 ![WhatsApp Image 2022-05-26 at 8 47 46 AM](https://user-images.githubusercontent.com/94011974/170503573-9f2199ea-69e2-4acd-bd09-77208cd3f1c6.jpeg)
 
@@ -41,7 +41,6 @@ Comprobar el cumplimiento de la técnica de análisis de mallas, mediante el an�
 
 Análisis de mallas
 
-***
 
 ![WhatsApp Image 2022-06-03 at 8 30 29 AM](https://user-images.githubusercontent.com/94011974/171864079-b005c0d4-4cd1-4d72-810e-c81d9d9dfd1d.jpeg)
 
@@ -55,46 +54,46 @@ Circuito para el análisis de mallas
 
 ***
 
-Malla 1
+**Malla 1**
 
 ![image](https://user-images.githubusercontent.com/94011974/170368117-ae78efe6-f110-4c5d-be37-99ad8561f6d7.png)
 
 
 ***
 
-Malla 2
+**Malla 2**
 
 ![image](https://user-images.githubusercontent.com/94011974/170368148-bccfe9fd-6984-48f1-92f9-db1b6184a1cf.png)
 
 ***
 
-Malla 3
+**Malla 3**
 
 ![image](https://user-images.githubusercontent.com/94011974/170368161-37ccb8d9-b2af-4b7f-8202-a12b9393f76f.png)
 
 ***
 
-4. Materiales y equipos requeridos
+**4. Materiales y equipos requeridos**
 
 ![image](https://user-images.githubusercontent.com/94011974/142951161-85a7ecea-bf4d-45bb-81eb-164e07b5fcc8.png)
 
 ***
 
-5. Procedimiento
+**5. Procedimiento**
 
-MALLA 1: 
+**MALLA 1:** 
 
 5V – V820 - V1000 = 0 
 
 5 – 820.I1 - 1000.(I1 – I2) = 0  (1ra Ecuación)
 
-MALLA 2:
+**MALLA 2:**
 
 - V1200 – V2200 – V1000 = 0
 
 -1200.I2 - 2200.(I2-I3) - 1000.(I2-I1) = 0  (2da Ecuación)
 
-MALLA 3:
+**MALLA 3:**
 
 -V390 -10 V - V2200 =0
 
@@ -116,13 +115,15 @@ I3 =  -2.9 mA
 
 ***
 
-6. Cálculo de error
+**6. Cálculo de error**
 
 ![image](https://user-images.githubusercontent.com/94011974/170057592-12d7c136-22cd-4cac-9532-0e92eb81f1b9.png)
 
+***
+
 **Malla  1**
 
-***
+
 
 Con resultado experimental
 
@@ -136,7 +137,7 @@ Con resultado experimental
 
 ![image](https://user-images.githubusercontent.com/105259459/170615566-7c4f041f-54a8-4e62-bd53-076ae10cec3c.png)
 
-***
+
 
 Con resultado simulado
 
@@ -154,13 +155,13 @@ Con resultado simulado
 
 ***
 
-7. Vídeo
+**7. Vídeo**
 
 https://www.youtube.com/watch?v=4IcsGD-T6jc
 
 ***
 
-8. Conclusiones
+**8. Conclusiones**
 
 -En base a las bibliografías investigadas, se concluye que, para el análisis de mallas, asigna y dibuja corrientes independientes en cada malla, es necesaria la segunda ley de Kirchhoff, la cual nos dice que la suma algebraica de los voltajes es una malla cerrada debe ser cero y se debe tener cuidado con la dirección de la corriente. Con respecto a la ley de la conservación de la carga los componentes ganan y pierden energía dependiendo del elemento.
 
