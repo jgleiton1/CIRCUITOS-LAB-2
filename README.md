@@ -50,13 +50,26 @@ Circuito armado
 
 Circuito para el análisis de mallas
 
-![image](https://user-images.githubusercontent.com/94011974/171923105-1c0332d4-cdf9-4f38-8852-0fc83e5416db.png)
+![image](https://user-images.githubusercontent.com/94011974/170368099-dd353d06-50a3-46cf-a3a4-ba8d6ab130b0.png)
 
 ***
 
-Medicion de corrientes en las mallas
+**Malla 1**
 
-![image](https://user-images.githubusercontent.com/94011974/171923169-907f63c8-4e04-4f21-8234-692ee072cfe4.png)
+![image](https://user-images.githubusercontent.com/94011974/170368117-ae78efe6-f110-4c5d-be37-99ad8561f6d7.png)
+
+
+***
+
+**Malla 2**
+
+![image](https://user-images.githubusercontent.com/94011974/170368148-bccfe9fd-6984-48f1-92f9-db1b6184a1cf.png)
+
+***
+
+**Malla 3**
+
+![image](https://user-images.githubusercontent.com/94011974/170368161-37ccb8d9-b2af-4b7f-8202-a12b9393f76f.png)
 
 ***
 
@@ -98,7 +111,7 @@ I2 =  -2.9 mA
 
 I3 =  -6.3 mA
 
-![image](https://user-images.githubusercontent.com/94011974/171923227-2f96316b-2761-4057-99d9-6db0c2230c9b.png)
+![image](https://user-images.githubusercontent.com/94011974/171906162-2edbcbf7-2a37-4b90-bf1e-dcc0f9183179.png)
 
 ***
 
@@ -111,19 +124,19 @@ I3 =  -6.3 mA
 **Malla  1**
 
 
-![image](https://user-images.githubusercontent.com/105259459/171908770-5a72cfb6-5db1-4eb3-8956-0d933768d1aa.png)
+![image](https://user-images.githubusercontent.com/105259459/171923106-79b3d6e1-e8f9-40c1-9188-521d956c643c.png)
 
 
 
 **Malla 2**
 
-![image](https://user-images.githubusercontent.com/105259459/171908962-8d666f95-9775-4f81-b506-4e2d783cbb44.png)
+![image](https://user-images.githubusercontent.com/105259459/171923172-4147a52c-f2d0-45d6-a504-f67cd14dac7b.png)
 
 
 
 **Malla 3**
 
- ![image](https://user-images.githubusercontent.com/105259459/171909151-c9b8e823-1aae-49d4-978d-b500a909ed93.png)
+![image](https://user-images.githubusercontent.com/105259459/171923313-bebbb20a-d2d2-4d7a-9b9e-b2fbf8ca31b3.png)
 
 
 ***
